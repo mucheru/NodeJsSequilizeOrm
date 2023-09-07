@@ -3,4 +3,6 @@
 
 cd NodeJsSequilizeOrm
 then
-npm install
+npm install    
+
+nodemon server.js
